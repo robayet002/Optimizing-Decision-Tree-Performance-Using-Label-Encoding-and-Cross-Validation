@@ -21,6 +21,8 @@ Results
 Cross-Validation Score: Provides an estimate of the model's performance on unseen data.
 
 ![24](https://github.com/robayet002/Optimizing-Decision-Tree-Performance-Using-Label-Encoding-and-Cross-Validation/assets/111728894/5f46137a-bde8-4464-91b3-7d78df3fe617)
+
+
 Confusion Matrix: Shows the number of correct and incorrect predictions, giving insight into the classification performance.
 
 ![25](https://github.com/robayet002/Optimizing-Decision-Tree-Performance-Using-Label-Encoding-and-Cross-Validation/assets/111728894/1c13fca4-4d9c-4dc3-9705-335a64be087f)
