@@ -15,7 +15,7 @@ Ensure your dataset is in a CSV format. The target variable should be categorica
 Model Training and Evaluation
 Train the Decision Tree classifier and evaluate it.
 
-![23](https://github.com/robayet002/Optimizing-Decision-Tree-Performance-Using-Label-Encoding-and-Cross-Validation/assets/111728894/0ea92876-3217-4b14-947a-39e76ecbaf1c)
+![25](https://github.com/robayet002/Optimizing-Decision-Tree-Performance-Using-Label-Encoding-and-Cross-Validation/assets/111728894/1c13fca4-4d9c-4dc3-9705-335a64be087f)
 
 Results
 Cross-Validation Score: Provides an estimate of the model's performance on unseen data.
@@ -25,4 +25,5 @@ Cross-Validation Score: Provides an estimate of the model's performance on unsee
 
 Confusion Matrix: Shows the number of correct and incorrect predictions, giving insight into the classification performance.
 
-![25](https://github.com/robayet002/Optimizing-Decision-Tree-Performance-Using-Label-Encoding-and-Cross-Validation/assets/111728894/1c13fca4-4d9c-4dc3-9705-335a64be087f)
+
+![23](https://github.com/robayet002/Optimizing-Decision-Tree-Performance-Using-Label-Encoding-and-Cross-Validation/assets/111728894/0ea92876-3217-4b14-947a-39e76ecbaf1c)
